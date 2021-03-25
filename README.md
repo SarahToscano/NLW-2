@@ -12,20 +12,17 @@ The project aims to help people who are interested in disposing of waste that co
 With it, an establishment can perform a registration informing its location and types of items that it recycles such as lamps, kitchen oil, cardboard, etc.
 With the mobile app, anyone can search for nearby establishments that collect the recyclable items they want to dispose of.
 
-
-## 🚀 Technologies
-
-Segue abaixo uma lista com as principais técnologias utilizados no desenvolvimento desta aplicação. Lembrando que tudo foi desenvolvido utilizando a linguagem [Typescript](https://www.typescriptlang.org/).
-
 <br/>
 
-### ⚛️ Frameworks
+## 🚀 Technologies
 
 <code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
 <code><img height="25" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
 <code><img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code> 
 <code><img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code> 
 <code><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code> 
+<code><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code> 
+
 
 <br/>
 
