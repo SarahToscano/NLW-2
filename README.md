@@ -52,7 +52,7 @@ With the mobile app, anyone can search for nearby establishments that collect th
 
 ## :information_source: How To run?
 
-To clone and run this application, you'll need [Git](https://git-scm.com), Node.js and Yarn installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), Node.js and Expo installed on your computer.
 
 ### Running API 
 
@@ -73,7 +73,7 @@ $ npm run knex:seed
 # Start server
 $ npm start
 
-# running on port 3333
+# running on port 3000
 ```
 
 ### Running Web Front-ed 
