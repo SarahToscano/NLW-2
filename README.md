@@ -7,7 +7,7 @@
 
 ## :bulb: Next Level Week #2 - Ecoleta
 
-The ** Ecoleta ** project it is an initiative of Rockeatset during the second Next Level Week.
+The **Ecoleta** project it is an initiative of Rockeatset during the second Next Level Week.
 The project aims to help people who are interested in disposing of waste that could harm the environment in suitable places where they can be recycled and reused.
 With it, an establishment can perform a registration informing its location and types of items that it recycles such as lamps, kitchen oil, cardboard, etc.
 With the mobile app, anyone can search for nearby establishments that collect the recyclable items they want to dispose of.
@@ -17,6 +17,8 @@ With the mobile app, anyone can search for nearby establishments that collect th
 
 Segue abaixo uma lista com as principais técnologias utilizados no desenvolvimento desta aplicação. Lembrando que tudo foi desenvolvido utilizando a linguagem [Typescript](https://www.typescriptlang.org/).
 
+<br/>
+
 ### ⚛️ Frameworks
 
 <code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
@@ -25,6 +27,7 @@ Segue abaixo uma lista com as principais técnologias utilizados no desenvolvime
 <code><img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code> 
 <code><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code> 
 
+<br/>
 
 # :computer: WEB Layout
 
@@ -48,7 +51,7 @@ Segue abaixo uma lista com as principais técnologias utilizados no desenvolvime
   <img src="./screenshots/mobile_details-page.png" alt="Mobile Details Page" width="350">
 </p>
 
-
+<br/>
 
 ## :information_source: How To run?
 
