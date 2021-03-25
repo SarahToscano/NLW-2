@@ -3,93 +3,30 @@
 <br><br>
 ♻️ Seu marketplace de coleta de resíduos ♻️
 </h4>
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/AbnerPS/nlw-ecoleta"/>
-    <img src="https://img.shields.io/github/languages/count/AbnerPS/nlw-ecoleta?color=purple"/>
-    <img src="https://img.shields.io/github/last-commit/AbnerPS/nlw-ecoleta"/>
-    <img src="https://img.shields.io/github/issues/AbnerPS/nlw-ecoleta?color=red"/>
-    <img src="https://img.shields.io/github/license/AbnerPS/nlw-ecoleta?color=yellow"/>
-</p>
-
-# :bulb: Sobre o projeto 
-
-O projeto **Ecoleta** visa ajudar pessoas que tenham o interesse de descartar resíduos que possam agredir o meio ambiente em locais adequados onde poderam ser reciclados e reaproveitados.
-Com ele um estabelecimento pode efetuar um cadastro informando sua localidade e tipos de itens que ele reclica como lâmpadas, óleo de cozinhas, papelão, etc.
-Com o aplicativo mobile qualquer pessoa pode buscar por estabelecimentos próximos que faça a coleta dos itens reciclaveis que deseja descartar.
-Com isso você ajuda a preservar o nosso planeta reciclando. 🥰
-
-# ⚙️ Como executar
 
 
-Para executar e testar a aplicação na sua máquina, primeiramente clone o repositório no seu computador.
-Após fazer o fork e ter todos os arquivos na sua maquina, siga os seguintes passos:
+## :bulb: Next Level Week #2 - Ecoleta
 
-### Iniciar Servidor
+The ** Ecoleta ** project it is an initiative of Rockeatset during the second Next Level Week.
+The project aims to help people who are interested in disposing of waste that could harm the environment in suitable places where they can be recycled and reused.
+With it, an establishment can perform a registration informing its location and types of items that it recycles such as lamps, kitchen oil, cardboard, etc.
+With the mobile app, anyone can search for nearby establishments that collect the recyclable items they want to dispose of.
 
-Para instalar todas as dependências do servidor, entre na pasta **"./server"** e execute o seguinte comando:
 
-```bash
-$ npm install
-```
-Agora para criar a estrutura base do banco de dados, execute os comandos:
-
-```bash
-$ npm run knex:migrate
-$ npm run knex:seed
-```
-Com as dependência instaladas e o banco de dados pronto, execute este comando para iniciar o servidor:
-
-```bash
-$ npm start
-```
-
-### Iniciar App Web
-
-Após iniciar a execução do servidor, inicie a aplicação web entrando na pasta **"./web"** e executando os comandos:
-
-```bash
-$ npm install
-$ npm start
-```
-
-### Iniciar App Mobile
-
-Para executar o aplicação mobile é necessário ter o [Expo](https://expo.io/) instalado na sua máquina e no seu celular.
-Com isso entre na pasta **"./mobile"** e execute os seguintes comandos:
-
-```bash
-$ npm install
-$ expo start
-```
-
-Agora no seu celular, abra o aplicativo do **Expo** e escaneie o QRCode para iniciar.
-
-**E pronto, agora você pode usar à vontade toda a aplicação.** :)
-
-# 🧑🏽‍💻 Tecnologias
+## 🚀 Technologies
 
 Segue abaixo uma lista com as principais técnologias utilizados no desenvolvimento desta aplicação. Lembrando que tudo foi desenvolvido utilizando a linguagem [Typescript](https://www.typescriptlang.org/).
 
 ### ⚛️ Frameworks
-- [x] [React Native](https://reactnative.dev/)
-- [x] [Node.js](https://nodejs.org/en/) 
-- [x] [React](https://pt-br.reactjs.org/)
-- [x] [Expo](https://expo.io/)
 
-### 📚 Bibliotecas e Dependências
-- [x] [React Navigation](https://reactnavigation.org/)
-- [x] [React-Dropzone](https://github.com/react-dropzone/react-dropzone)
-- [x] [Celebrate](https://github.com/arb/celebrate)
-- [x] [Express](https://expressjs.com/)
-- [x] [Leaflet](https://leafletjs.com/)
-- [x] [Multer](https://github.com/expressjs/multer)
-- [x] [Axios](https://github.com/axios/axios)
+<code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
+<code><img height="25" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
+<code><img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code> 
+<code><img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code> 
+<code><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code> 
 
-### 🏦 Banco de dados
-- [x] [MySQL](https://www.mysql.com/)
-- [x] [Knex](http://knexjs.org/)
 
-# :computer: Imagens da Pagina Web
+# :computer: WEB Layout
 
 <p align="center">
   <img src="./screenshots/home-page.png" alt="Home Page" width="800">
@@ -99,7 +36,7 @@ Segue abaixo uma lista com as principais técnologias utilizados no desenvolvime
   <img src="./screenshots/detail-page_03.png" alt="Detail Page" width="800">
 </p>
 
-# :iphone: Imagens do App Mobile
+# :iphone: Mobile Layout
 
 <p align="center">
   <img src="./screenshots/mobile_home-page.png" alt="Mobile Home Page" width="350">
@@ -111,17 +48,67 @@ Segue abaixo uma lista com as principais técnologias utilizados no desenvolvime
   <img src="./screenshots/mobile_details-page.png" alt="Mobile Details Page" width="350">
 </p>
 
- # :tv: Redes Sociais
- Me siga nas minhas redes sociais 😊
- 
-   <a href="https://github.com/AbnerPS" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
-  
-  <a href="https://www.instagram.com/abner.p.s/" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a> 
-  
-  <a href="https://www.facebook.com/AbnerGuthiwill" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a> 
 
-  <a href="https://www.linkedin.com/in/abner-pereira-silva-8715a326/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>
+
+## :information_source: How To run?
+
+To clone and run this application, you'll need [Git](https://git-scm.com), Node.js and Yarn installed on your computer.
+
+### Running API 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/SarahToscano/NLW-2
+
+# Go into the repository
+$ cd NLW-2/server
+
+# Install dependencies
+$ npm install
+
+# Run Migrates
+$ npm run knex:migrate
+$ npm run knex:seed
+
+# Start server
+$ npm start
+
+# running on port 3333
+```
+
+### Running Web Front-ed 
+
+```bash
+
+# Go into the repository
+$ cd NLW-2/web
+
+# Install dependencies
+$ npm install
+
+# Start application
+$ npm start
+
+# running on port 3333
+```
+
+
+
+### Running App Mobile
+
+You must have installed on your computer and cellphone the [Expo](https://expo.io/).
+
+```bash
+
+# Go into the repository
+$ cd NLW-2/mobile
+
+# Install dependencies
+$ npm install
+
+# Start application
+$ expo start
+
+#Now, open the Expo app on your cellphone and read the QRcode.
+```
+
